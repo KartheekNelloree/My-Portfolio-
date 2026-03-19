@@ -24,8 +24,8 @@ export const projects = [
       'Fully mobile-responsive for clients on any device',
       'Deployed on Vercel (frontend) + Render (backend) with zero downtime',
     ],
-    liveUrl: 'https://infinitejourny.org/', // Update with actual URL
-    githubUrl: 'https://github.com/KartheekNelloree/infinite-journey', // Update with actual URL
+    liveUrl: 'https://infinitejourny.org/',
+    githubUrl: 'https://github.com/KartheekNelloree/InfiniteJourneyReikiHealingWebsite',
     featured: true,
   },
   {
@@ -49,8 +49,8 @@ export const projects = [
       'Persistent session history stored in Supabase per user',
       'Used prompt engineering techniques to minimize hallucinations',
     ],
-    liveUrl: '#', // Update with actual URL
-    githubUrl: 'https://github.com/KartheekNelloree/ai-study-buddy', // Update with actual URL
+    liveUrl: '#',
+    githubUrl: 'https://github.com/KartheekNelloree',
     featured: true,
   },
   {
@@ -74,8 +74,8 @@ export const projects = [
       'Built-in analytics: task completion rate, overdue tracking',
       'Deployed on Vercel — sub-second load times on Lighthouse audit',
     ],
-    liveUrl: '#', // Update with actual URL
-    githubUrl: 'https://github.com/KartheekNelloree/taskflow', // Update with actual URL
+    liveUrl: '#',
+    githubUrl: 'https://github.com/KartheekNelloree',
     featured: false,
   },
 ]
